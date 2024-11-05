@@ -11,6 +11,7 @@ pandas = "^2.2.3"
 jupyter = "^1.1.1"
 pandas-gbq = "^0.24.0"
 google-cloud-bigquery = "^3.26.0"
+seaborn = "^0.13.2"
 
 
 [build-system]
